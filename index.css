@@ -5,11 +5,14 @@ body {
     text-align: center;
 }
 .container{
-    margin-top: 20px;
+    margin: auto;
     border: 5px solid black;
     border-radius: 10px;
+    width: 90vh;
+    height: 500px;
+    padding-top: 20px;
+    
 }
-
 span {
     border-bottom: 2px solid black;
     padding: 4px;
