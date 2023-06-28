@@ -10,10 +10,10 @@ body {
     border-radius: 10px;
     width: 90vh;
     height: 500px;
-    padding-top: 20px;
+    padding-top: 40px;
+    background: peachpuff
     
-}
-span {
+}span {
     border-bottom: 2px solid black;
     padding: 4px;
 }
